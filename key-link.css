@@ -1,14 +1,17 @@
 div.key-links-container {
     border: 1px solid lightgray;
-    width: 20rem;
-    padding: 0 0 0 1rem;
+    width: 19rem;
+    padding: 0 0 0.7rem 1rem;
 }
 .key-links-header {
     padding: 0 -2rem 0 0;
     font-family: "Courier New", Courier, monospace;
-    font-size: 12pt;
+    font-size: 12.8pt;
     padding-bottom: 0cm;
     margin-bottom: 0.2rem;
+}
+.key-links-images a {
+    text-decoration: none;
 }
 .image1 {
     width: 36px;
@@ -20,7 +23,6 @@ div.key-links-container {
 .image2 {
     width: 36px;
     height: 36px;
-    text-decoration: none;
     padding: 0.5rem;
 }
 .image3 {
@@ -36,13 +38,14 @@ div.key-links-container {
     padding: 0.5rem;
 }
 .image5 {
-    width: 56px;
+    width: 54px;
     height: 52px;
     margin: 0cm;
     padding: 0rem;
 }
 .key-link-body a {
     font-family: sans-serif;
+    color: black;
     font-size: 13pt;
     text-decoration: none;
     margin: 1rem;
